@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I'm Aditya, people usually call me Adi \
-🎓 I'm a Computer Science junior & IMES Scholar at [The University of British Columbia](https://www.cs.ubc.ca/) \
+🎓 I'm a Computer Science junior & IMES scholar at [The University of British Columbia](https://www.cs.ubc.ca/) \
 👀 I'm interested in software engineering, machine learning, and distributed systems \
 🤝 I'd love to collaborate on anything that helps me learn new things \
 🦫 I’m currently learning Go \
