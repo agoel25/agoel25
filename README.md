@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 👀 I'm interested in software engineering, machine learning, and distributed systems \
 🤝 I'd love to collaborate on anything that helps me learn new things \
 🦫 I’m currently learning Go \
-📫 How to reach me: [agoel25@student.ubc.ca](mailto:agoel25@student.ubc.ca)
+📫 Reach out to me at [agoel25@student.ubc.ca](mailto:agoel25@student.ubc.ca)
